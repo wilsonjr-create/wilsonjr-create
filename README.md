@@ -3,7 +3,7 @@
 
 **Full Stack Developer & IT Support Specialist** · Brasília, Brazil
 
-Open to roles across Europe, especially Ireland and Spain, and focused on employers that offer work visa sponsorship.
+Open to roles across Europe, and focused on employers that offer work visa sponsorship.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wilsonjr--create.github.io-22C55E?style=for-the-badge)](https://wilsonjr-create.github.io/)
 
