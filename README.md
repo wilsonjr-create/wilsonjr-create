@@ -1,48 +1,29 @@
-# Hi, I'm Wilson Jr! 👋
+[README.md](https://github.com/user-attachments/files/34897912/README.md)
+# Hi, I'm Wilson Jr. 👋
 
-### IT Support Technician | Technical Support | IT Helpdesk
+**Full Stack Developer & IT Support Specialist** · Brasília, Brazil
 
-📍 Based in Brazil | 🌍 Career Interest: Ireland
+Open to roles across Europe, especially Ireland and Spain, and focused on employers that offer work visa sponsorship.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-wilsonjr--create.github.io-22C55E?style=for-the-badge)](https://wilsonjr-create.github.io/)
 
-## 👨‍💻 About Me
+## About
+IT support professional (since July 2023) who also builds software across the full stack. I combine practical troubleshooting experience with front-end and back-end development, with a background in Systems Analysis and Development.
 
-I'm a Systems Analysis and Development undergraduate with a strong interest in IT Support, computer hardware, Windows troubleshooting, and technical problem-solving.
+## Tech stack
+- **Front-End:** HTML, CSS, JavaScript, React
+- **Back-End & Data:** Python, Supabase, SQL, PostgreSQL
+- **Tools:** Git, GitHub
+- **IT Support:** Windows, hardware, networking, troubleshooting, incident resolution
 
-I have hands-on personal experience troubleshooting computers, configuring Windows environments, installing drivers, and diagnosing hardware and software issues.
+## Projects
+- [**CarFlow**](https://github.com/wilsonjr-create/CarFlow) — Automotive management system
+- [**Sistema Financeiro**](https://github.com/wilsonjr-create/Sistema-de-fianan-as-) — Financial management platform
 
-My professional background includes customer service and administrative operations, helping me develop communication, organisation, and problem-solving skills.
+## Languages
+Portuguese · English · Spanish
 
-## 🛠️ Technical Skills
-
-- Windows installation, configuration and troubleshooting
-- PC hardware assembly, maintenance and diagnostics
-- Software installation and driver troubleshooting
-- Computer performance optimisation
-- Technical problem-solving and user assistance
-
-## 📚 Currently Learning
-
-- Networking fundamentals: TCP/IP, DNS and DHCP
-- Microsoft 365 administration
-- Active Directory and Microsoft Entra ID
-- IT Service Management and Helpdesk workflows
-- IT security fundamentals
-
-## 🎓 Education
-
-**Systems Analysis and Development (ADS)**  
-Undergraduate Student — UDF, Brazil
-
-## 🎯 Career Interests
-
-- IT Support Technician
-- Technical Support Specialist
-- IT Helpdesk / Service Desk
-
-🌍 Interested in future IT support opportunities in Ireland.
-
----
-
-*Building practical knowledge and documenting my learning journey in IT Support.*
+## Contact
+- Portfolio: https://wilsonjr-create.github.io/
+- Email: fluwnense45@gmail.com
+- WhatsApp: [+55 61 99959-3358](https://wa.me/5561999593358)
