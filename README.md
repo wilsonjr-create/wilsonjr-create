@@ -17,8 +17,10 @@ IT support professional (since July 2023) who also builds software across the fu
 - **IT Support:** Windows, hardware, networking, troubleshooting, incident resolution
 
 ## Projects
-- [**CarFlow**](https://github.com/wilsonjr-create/CarFlow) — Automotive management system
-- [**Sistema Financeiro**](https://github.com/wilsonjr-create/Sistema-de-fianan-as-) — Financial management platform
+
+- [Aurea Estates](https://github.com/wilsonjr-create/aurea-estates) — Premium real estate platform built with React, TypeScript and Tailwind CSS. [Live Demo](https://aurea-estates-two.vercel.app/)
+- [CarFlow](https://github.com/wilsonjr-create/CarFlow) — Automotive management system.
+- [Sistema Financeiro](https://github.com/wilsonjr-create/Sistema-de-fianan-as-) — Financial management platform.
 
 ## Languages
 Portuguese · English · Spanish
