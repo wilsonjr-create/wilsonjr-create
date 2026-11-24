@@ -1,11 +1,10 @@
-
 # Wilson Jr.
 
 ### Junior Software Engineer | Full-Stack Developer
 
 Building modern, reliable and user-focused web applications.
 
-Software Engineering graduate with 3+ years of professional IT experience, combining technical problem-solving with hands-on full-stack development.
+Information Systems graduate with 3+ years of professional IT experience, combining technical problem-solving, IT support and hands-on full-stack development.
 
 **Based in Brazil · Open to European Relocation · Remote Worldwide**
 
@@ -23,17 +22,33 @@ Software Engineering graduate with 3+ years of professional IT experience, combi
 
 **Backend & Database:** Supabase · PostgreSQL · SQL · REST APIs
 
-**Tools:** Git · GitHub · Vercel
+**Integrations:** Stripe · OAuth · Webhooks · External APIs
+
+**Tools:** Git · GitHub · Vercel · VS Code
 
 ---
 
-### Featured Project
+### Featured Projects
+
+**WJRFIN — Multi-Tenant Financial Management SaaS**
+
+A business financial management platform designed to centralize transactions, financial reporting and cash flow analysis across multiple companies.
+
+Features include company onboarding, role-based access, secure database policies, transaction management, financial dashboards and multi-currency conversion with historical exchange-rate tracking.
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL
+
+[Source Code](https://github.com/wilsonjr-create/WJRFIN)
+
+---
 
 **NEXORA GAMES — Full-Stack E-Commerce Platform**
 
-A deployed gaming storefront featuring authentication, product browsing, shopping cart, PostgreSQL database integration, Stripe test checkout, webhooks and purchase history.
+A deployed gaming storefront featuring product browsing, platform selection, shopping cart management, Google authentication and secure database integration.
 
-**Stack:** Next.js · TypeScript · Supabase · PostgreSQL · Stripe
+Includes Stripe test checkout, server-side validation, payment webhooks, session verification and customer purchase history.
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Stripe
 
 [Live Demo ↗](https://nexora-games-zeta.vercel.app/) · [Source Code](https://github.com/wilsonjr-create/NEXORA-GAMES)
 
@@ -42,16 +57,26 @@ A deployed gaming storefront featuring authentication, product browsing, shoppin
 ### Experience & Education
 
 **IT Support & Web Development**  
-IEE — Instituto Evolutivo de Educação | Jul 2023 – Present
+IEE — Instituto Evolutivo de Educação | Jul 2023 – Oct 2026
 
-**Bachelor's Degree in Software Engineering**  
-UDF Centro Universitário | 2022–2026
+3+ years of professional IT experience involving technical support, troubleshooting, infrastructure and web development.
+
+**Bachelor's Degree in Information Systems**  
+UDF Centro Universitário | Jul 2022 – Aug 2026 · Completed
 
 ---
 
 ### Languages
 
 Portuguese — Native · Spanish — Fluent · English — Advanced
+
+---
+
+### International Opportunities
+
+Open to junior software engineering, full-stack development and IT opportunities across Europe, including remote positions worldwide.
+
+Willing to relocate and cover personal relocation and visa-related expenses where legally permitted. Open to employer-sponsored work permit opportunities.
 
 ---
 
